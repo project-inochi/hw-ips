@@ -1,4 +1,4 @@
-package aia
+package riscv.aia
 
 import scala.util.Random
 import spinal.core._

@@ -1,4 +1,4 @@
-package aia
+package riscv.aia
 
 import spinal.core._
 import spinal.core.sim._
@@ -6,7 +6,6 @@ import spinal.lib._
 import spinal.lib.bus.misc._
 import spinal.lib.bus.tilelink
 import spinal.tester.SpinalSimFunSuite
-import aia._
 import _root_.sim._
 
 object ImsicFileMapping {

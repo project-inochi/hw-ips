@@ -1,4 +1,4 @@
-package aia
+package riscv.aia
 
 import spinal.core._
 import spinal.core.fiber._
